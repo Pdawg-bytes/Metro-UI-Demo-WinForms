@@ -1,0 +1,14 @@
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroUI.exe.config
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroFramework.dll
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.cache
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.CoreCompileInputs.cache
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.CopyComplete
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.Form1.resources
+C:\Users\Pdawg\source\repos\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.AssemblyReference.cache
